@@ -192,7 +192,7 @@ export default function Scene1_Balloons({ onComplete }: Props) {
 
                   <motion.div variants={textVariants} className="flex flex-col gap-4 mt-4 w-full items-center font-serif">
                     <p className="text-2xl md:text-4xl tracking-wide font-bold" style={{ color: "#FFFFFF" }}>
-                      📍 Venue: Civil Hall
+                      📍 Venue: Multi Purpose Hall
                     </p>
                     <div className="flex flex-col md:flex-row gap-4 md:gap-12 mt-2">
                       <p className="text-2xl md:text-4xl tracking-wide" style={{ color: "#FFFFFF" }}>
